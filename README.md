@@ -1,6 +1,6 @@
 <h1 align="center">Hello everyone 👋, I'm Tejas Nayak B</h1>
 
-<h3 align="center">I'm currently in 2nd year of engineering  and I'm pursuing my B.E degree in Computer Science</h3>
+<h3 align="center">I'm currently in 3rd year of engineering  and I'm pursuing my B.E degree in Computer Science</h3>
 <p align="center">
  🌱 I’m currently learning **Full Stack Web Development**</p>
 
